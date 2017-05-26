@@ -28,7 +28,7 @@ Admin username: **admin**
 
 Admin password: **admin**
 
-User username: **reljicd**
+User username: **dusan**
 
 User password: **password**
 
