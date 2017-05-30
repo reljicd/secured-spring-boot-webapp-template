@@ -1,8 +1,11 @@
-# Secure Spring Boot App
+# Secured Spring Boot App Template
 
 ## About
 
 This is a template for a Secured Spring Boot App with login and registration functionality
+for quick bootstrapping of secured Spring Boot projects.
+
+It was made using Spring Boot, Spring Security, Thymeleaf, Spring Data JPA, Spring Data REST. Database is in memory H2.
 
 ## How to run
 
@@ -28,7 +31,7 @@ Admin username: **admin**
 
 Admin password: **admin**
 
-User username: **dusan**
+User username: **user**
 
 User password: **password**
 
